@@ -7,8 +7,8 @@ export default function App() {
         </svg>
       </div>
       <div className="flex flex-col items-center space-y-4">
-        <div className="w-24 h-24 sm:w-40 sm:h-40 rounded-full bg-gray-200 flex items-center justify-center">
-          <img src="/placeholder.png" alt="User" className="w-full h-full rounded-full object-cover" />
+        <div className="w-28 h-28 sm:w-40 sm:h-40 rounded-full bg-gray-200 flex items-center justify-center">
+          <img src="/placeholder.png" alt="User" className="w-full h-full rounded-full object-cover ring-2 ring-offset-2 ring-black" />
           <span className="sr-only">AC</span>
         </div>
         <div className="text-center space-y-1">
