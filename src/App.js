@@ -8,22 +8,22 @@ export default function App() {
       </div>
       <div className="flex flex-col items-center space-y-4">
         <div className="w-28 h-28 sm:w-40 sm:h-40 rounded-full bg-gray-200 flex items-center justify-center">
-          <img src="/placeholder.png" alt="User" className="w-full h-full rounded-full object-cover ring-2 ring-offset-2 ring-black" />
+          <img src="/chimi.png" alt="User" className="w-full h-full rounded-full object-cover ring-2 ring-offset-2 ring-black" />
           <span className="sr-only">AC</span>
         </div>
         <div className="text-center space-y-1">
-          <h1 className="text-2xl font-bold">@meech</h1>
-          <p className="text-gray-500">swaggiest monkey on solana</p>
-          <p className="text-gray-500">CA: <span className="text-xs md:text-base">5frYCF6qPERsnWysXKptyTC5CBPAkL9u7UdTMWvxpump</span></p>
-          <p className="text-gray-500">no monkey business</p>
+          <h1 className="text-2xl font-bold">@chimi</h1>
+          <p className="text-gray-500"></p>
+          <p className="text-gray-500">CA: <span className="text-xs md:text-base">updating...</span></p>
+          <p className="text-gray-500">chimi chimi chonga</p>
           <div className="text-gray-500">
             <div className='flex justify-center items-center z-10'>
-              <a href="https://x.com/meechsol" className=''>
+              <a href="https://x.com/" className=''>
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='size-8 md:size-10 md:hover:scale-105 transition ease-in-out duration-150' fill="#00000" viewBox="0 0 50 50">
                   <path d="M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z"></path>
                 </svg>
               </a>
-              <a href="https://t.me/meechportalsol" className=''>
+              <a href="https://t.me/" className=''>
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" className='size-8 md:size-10 md:hover:scale-105 transition ease-in-out duration-150' fill="#29A0DA" viewBox="0 0 50 50">
                   <path d="M46.137,6.552c-0.75-0.636-1.928-0.727-3.146-0.238l-0.002,0C41.708,6.828,6.728,21.832,5.304,22.445	c-0.259,0.09-2.521,0.934-2.288,2.814c0.208,1.695,2.026,2.397,2.248,2.478l8.893,3.045c0.59,1.964,2.765,9.21,3.246,10.758	c0.3,0.965,0.789,2.233,1.646,2.494c0.752,0.29,1.5,0.025,1.984-0.355l5.437-5.043l8.777,6.845l0.209,0.125	c0.596,0.264,1.167,0.396,1.712,0.396c0.421,0,0.825-0.079,1.211-0.237c1.315-0.54,1.841-1.793,1.896-1.935l6.556-34.077	C47.231,7.933,46.675,7.007,46.137,6.552z M22,32l-3,8l-3-10l23-17L22,32z"></path>
                 </svg>
@@ -38,7 +38,7 @@ export default function App() {
           </div>
           <div className="h-8 border-l border-gray-300"></div>
           <div className="flex flex-col items-center">
-            <span className="text-xl font-bold">69.9K</span>
+            <span className="text-xl font-bold">420K</span>
             <span className="text-gray-500 text-sm">Followers</span>
           </div>
           <div className="h-8 border-l border-gray-300"></div>
@@ -50,47 +50,47 @@ export default function App() {
       </div>
       <div className="grid grid-cols-3 gap-4 mt-8 sm:gap-6">
         <img
-          src="/i.png"
+          src="/x.png"
           alt="Post 1"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i2.png"
+          src="/x2.png"
           alt="Post 2"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i3.png"
+          src="/x3.png"
           alt="Post 3"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i4.png"
+          src="/x4.png"
           alt="Post 4"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i5.png"
+          src="/x5.png"
           alt="Post 5"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i6.png"
+          src="/x6.png"
           alt="Post 6"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i7.png"
+          src="/x7.png"
           alt="Post 7"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i8.png"
+          src="/x8.png"
           alt="Post 8"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
         <img
-          src="/i9.png"
+          src="/x1.png"
           alt="Post 9"
           className="aspect-square object-cover rounded-lg md:hover:scale-105 transition ease-in-out duration-150"
         />
