@@ -15,7 +15,7 @@ export default function App() {
           <div className="text-center space-y-1">
             <h1 className="text-2xl font-bold text-white">@chimi</h1>
             <p className="text-gray-300"></p>
-            <p className="text-gray-300">CA: <span className="text-xs md:text-base">updating...</span></p>
+            <p className="text-gray-300">CA: <span className="text-xs md:text-base">BYKiS7RGc7j1eDw56QSFt6h4YsgNP4Ke2upbu3xDW8CF</span></p>
             <p className="text-gray-300">chimi chimi chonga</p>
             <div className="text-gray-300">
               <div className='flex justify-center items-center z-10'>
